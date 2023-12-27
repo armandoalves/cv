@@ -25,23 +25,17 @@ export const RESUME_DATA = {
   location: "Lisboa, Portugal",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "Building brands with digital marketing since 2000.",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+    "ad",
+  avatarUrl: "https://gravatar.com/userimage/215750/23e7a575d95d4b67166a6d43f7a8831a.jpeg?size=256",
+  personalWebsiteUrl: "https://armandoalves.com",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+
     social: [
       {
-        name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
-        icon: GitHubIcon,
-      },
-      {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/armandoalves/",
         icon: LinkedInIcon,
       },
       {
